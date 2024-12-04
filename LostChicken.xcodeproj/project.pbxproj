@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		D97FFF552D00E40E0030658B /* aaaa.swift in Sources */ = {isa = PBXBuildFile; fileRef = D97FFF542D00E40C0030658B /* aaaa.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		D97FFF002D00E1750030658B /* LostChicken.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LostChicken.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D97FFF542D00E40C0030658B /* aaaa.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aaaa.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +37,7 @@
 		D97FFEF72D00E1750030658B = {
 			isa = PBXGroup;
 			children = (
+				D97FFF542D00E40C0030658B /* aaaa.swift */,
 				D97FFF022D00E1750030658B /* LostChicken */,
 				D97FFF012D00E1750030658B /* Products */,
 			);
@@ -119,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D97FFF552D00E40E0030658B /* aaaa.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
